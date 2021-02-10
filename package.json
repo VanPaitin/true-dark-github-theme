@@ -1,0 +1,22 @@
+{
+    "author": "Mayowa Pitan",
+    "name": "true-dark-github-theme",
+    "displayName": "True Dark Github Theme",
+    "description": "The dark github theme is a good one. However, the backgrounds are not truly black. For the developers that are a fan of truly dark themes. This is for you!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "True Dark Github Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/True Dark Github Theme-color-theme.json"
+            }
+        ]
+    }
+}
