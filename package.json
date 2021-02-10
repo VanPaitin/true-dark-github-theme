@@ -1,8 +1,15 @@
 {
     "author": "Mayowa Pitan",
+    "Publisher": "Mayowa Pitan",
+    "license": "MIT",
     "name": "true-dark-github-theme",
     "displayName": "True Dark Github Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VanPaitin/true-dark-github-theme"
+    },
     "description": "The dark github theme is a good one. However, the backgrounds are not truly black. For the developers that are a fan of truly dark themes. This is for you!",
+    "icon": "icon.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"

@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "true-dark-github-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <img src="icon.png" alt="Logo">
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# True Dark Github Theme
+<br/>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![True Dark Theme](./true-dark-github-theme.png)
 
-**Enjoy!**
+<br/>
+
+This is a port of the official [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) by Github. But it has been customized to use true black backgrounds.
+
+
+## Installation
+
+1. Go to []
